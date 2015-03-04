@@ -1,10 +1,9 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
   background: url(linedpaper.png) repeat;
-  background-image: url(monk_cell.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
+  background-image: url(ravello.jpg);
+  background-size: cover;
   background-position: center center;
   background-attachment: fixed;
 }
@@ -13,14 +12,14 @@ img {
 	float: right;
 }
 
-#sg_header_test {
-  padding-top:1px;
-  font-size:300px;
+h1 {
   color: midnightblue;
+  font-size: 48px;
+  border-bottom: 3px solid midnightblue;
+  line-height: 36px;
 }	
 
 h2 {
-  padding-top: 20px;
   color: midnightblue;
 }
 
