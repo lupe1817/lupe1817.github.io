@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Northwestern University Rowing Team</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6">
+        <h1>Women's Roster</h1>
+        <img src="nucrewwomen.jpg" alt="SJG_headshot" class="img-circle" width="150" height="150">
+          <div class="row">
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Name</th>
+                  <th>Seat</th>
+                  <th>Year</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Stephanie</td>
+                  <td>Bow</td>
+                  <td>Senior</td>
+                </tr>
+                <tr>
+                  <td>Susan</td>
+                  <td>Stroke</td>
+                  <td>Senior</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+      </div>
+      <div class="col-sm-6">
+        <h1>Men's Roster</h1>
+        <img src="nucrewmen.jpg" alt="SJG_headshot" class="img-circle" width="150" height="150">
+        <div class="row">
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Name</th>
+                  <th>Seat</th>
+                  <th>Year</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Thomas</td>
+                  <td>Stroke</td>
+                  <td>Senior</td>
+                </tr>
+                <tr>
+                  <td>Will</td>
+                  <td>Stroke</td>
+                  <td>Senior</td>
+                </tr>
+              </tbody>
+            </table>
+            <a href="mailto:s-gravenor@kellogg.northwestern.edu">Send Me Spam!</a>
+            <form action="mailto:s-gravenor@kellogg.northwestern.edu"> 
+              <p><input placeholder="First name "></p>
+              <p><textarea name="body" placeholder="text goes here">Text Goes here</textarea></p>
+            </form>
+          </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,5 +1,10 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  /*font-family: 'Roboto', sans-serif;*/
+  /*font-family: 'Lustria', serif;*/
+  /*font-family: 'Libre Baskerville', serif;*/
+  /*font-family: 'EB Garamond', serif;*/
+  font-family: 'Cardo', serif;
+
   font-weight: 300;
   background-image: url(monkonacell.jpg);
   background-size: 100%;
