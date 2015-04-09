@@ -16,23 +16,25 @@ img {
 
 h1 {
   padding-top: 10px;
-  font-size: 70px;
+  font-size: 40px;
   font-weight: 1000; 
   color: black;
   color: midnightblue;
+  text-align: left;
 }
 
 
 h2 {
-  padding-top: 10px;
+  /*padding-top: 10px;*/
   color: midnightblue;
+  text-align: left;
 }
 
 
 h3 {
-  text-align: center;
+  text-align: left;
   font-size: 20px;
-  padding-top: 10px;
+  padding-top: 100px;
   color: midnightblue;
 }
 
@@ -42,6 +44,22 @@ h4 {
   padding-top: 10px;
   color: midnightblue;
 }
+
+h5 {
+  text-align: left;
+  font-size: 20px;
+  padding-top: 10px;
+  color: dark grey;
+}
+
+h6 {
+  color: #FFCC00;
+  font-size: 20px;
+}
+
+/*.fa {
+  color: #FFCC00;
+}*/
 
 #TableOfContents {
   text-align: center;
